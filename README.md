@@ -1,8 +1,6 @@
 # How to Bypass Respondus Lockdown Browser
 
 <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=UnlockRespondus.lockdown-browser-bypass" />
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=UnlockRespondus.lockdown-browser-bypass)
-
 
 ## Introduction
 Bypassing Respondus Lockdown Browser can be simple and effective with the right approach. This guide highlights some key features and techniques to bypass it easily.
